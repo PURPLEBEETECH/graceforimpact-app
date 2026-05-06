@@ -8,7 +8,7 @@ const JobHero = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl">
           <h1 className="mb-6 text-3xl font-bold text-white md:text-5xl lg:text-6xl">
-            Job Placement Program
+            Career Program
           </h1>
           <p className="text-lg text-gray-100 md:text-xl lg:text-2xl leading-relaxed">
             Grace for Impact is committed to empowering individuals by connecting 
